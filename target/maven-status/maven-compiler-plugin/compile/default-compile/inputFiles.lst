@@ -1,0 +1,16 @@
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\BlueprintsApplication.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\config\OpenApiConfig.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\controllers\BlueprintsAPIController.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\controllers\GlobalExceptionHandler.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\dto\ApiResponse.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\filters\BlueprintsFilter.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\filters\IdentityFilter.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\filters\RedundancyFilter.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\filters\UndersamplingFilter.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\model\Blueprint.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\model\Point.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintNotFoundException.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintPersistence.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintPersistenceException.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\persistence\InMemoryBlueprintPersistence.java
+C:\Users\JUAN.VEGA-V\Desktop\ParcialPractico-2026-Corte2JuanVega\src\main\java\edu\eci\arsw\blueprints\services\BlueprintsServices.java
